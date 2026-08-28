@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-33-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-36-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -20,9 +20,12 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [4sum](Data%20Structures%20%26%20Algorithms/4sum) | Python |
 | [Binary Search](Data%20Structures%20%26%20Algorithms/binary-search) | Python |
 | [Buy And Sell Crypto](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto) | Python |
+| [Capacity To Ship Packages Within D Days](Data%20Structures%20%26%20Algorithms/capacity-to-ship-packages-within-d-days) | Python |
 | [Check If Array Is Sorted And Rotated](Data%20Structures%20%26%20Algorithms/check-if-array-is-sorted-and-rotated) | Python |
 | [Concatenation Of Array](Data%20Structures%20%26%20Algorithms/concatenation-of-array) | Python |
 | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer) | Python |
+| [Eating Bananas](Data%20Structures%20%26%20Algorithms/eating-bananas) | Python |
+| [Find First And Last Position Of Element In Sorted Array](Data%20Structures%20%26%20Algorithms/find-first-and-last-position-of-element-in-sorted-array) | Python |
 | [Find Minimum In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array) | Python |
 | [Find Peak Element](Data%20Structures%20%26%20Algorithms/find-peak-element) | Python |
 | [Find Target In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array) | Python |
