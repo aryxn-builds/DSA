@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-36-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-52-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -29,20 +29,33 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Find Minimum In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array) | Python |
 | [Find Peak Element](Data%20Structures%20%26%20Algorithms/find-peak-element) | Python |
 | [Find Target In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array) | Python |
+| [Guess Number Higher Or Lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower) | Python |
 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | Python |
+| [Isomorphic Strings](Data%20Structures%20%26%20Algorithms/isomorphic-strings) | Python |
+| [Linked List Cycle Detection](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection) | Python |
+| [Longest Common Prefix](Data%20Structures%20%26%20Algorithms/longest-common-prefix) | Python |
 | [Longest Consecutive Sequence](Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence) | Python |
+| [Longest Palindromic Substring](Data%20Structures%20%26%20Algorithms/longest-palindromic-substring) | Python |
 | [Majority Element](Data%20Structures%20%26%20Algorithms/majority-element) | Python |
 | [Majority Element Ii](Data%20Structures%20%26%20Algorithms/majority-element-ii) | Python |
+| [Maximum Nesting Depth Of The Parentheses](Data%20Structures%20%26%20Algorithms/maximum-nesting-depth-of-the-parentheses) | Python |
 | [Maximum Product Subarray](Data%20Structures%20%26%20Algorithms/maximum-product-subarray) | Python |
 | [Maximum Subarray](Data%20Structures%20%26%20Algorithms/maximum-subarray) | Python |
+| [Median Of Two Sorted Arrays](Data%20Structures%20%26%20Algorithms/median-of-two-sorted-arrays) | Python |
 | [Merge Intervals](Data%20Structures%20%26%20Algorithms/merge-intervals) | Python |
 | [Merge Sorted Array](Data%20Structures%20%26%20Algorithms/merge-sorted-array) | Python |
+| [Middle Of The Linked List](Data%20Structures%20%26%20Algorithms/middle-of-the-linked-list) | Python |
 | [Move Zeroes](Data%20Structures%20%26%20Algorithms/move-zeroes) | Python |
+| [Palindrome Linked List](Data%20Structures%20%26%20Algorithms/palindrome-linked-list) | Python |
 | [Pascals Triangle](Data%20Structures%20%26%20Algorithms/pascals-triangle) | Python |
 | [Products Of Array Discluding Self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self) | Python |
 | [Remove Duplicates From Sorted Array](Data%20Structures%20%26%20Algorithms/remove-duplicates-from-sorted-array) | Python |
+| [Remove Node From End Of Linked List](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list) | Python |
+| [Reverse A Linked List](Data%20Structures%20%26%20Algorithms/reverse-a-linked-list) | Python |
+| [Roman To Integer](Data%20Structures%20%26%20Algorithms/roman-to-integer) | Python |
 | [Rotate Array](Data%20Structures%20%26%20Algorithms/rotate-array) | Python |
 | [Rotate Matrix](Data%20Structures%20%26%20Algorithms/rotate-matrix) | Python |
+| [Search 2d Matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix) | Python |
 | [Search In Rotated Sorted Array Ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii) | Python |
 | [Search Insert Position](Data%20Structures%20%26%20Algorithms/search-insert-position) | Python |
 | [Set Zeroes In Matrix](Data%20Structures%20%26%20Algorithms/set-zeroes-in-matrix) | Python |
@@ -50,6 +63,9 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Single Number](Data%20Structures%20%26%20Algorithms/single-number) | Python |
 | [Sort Colors](Data%20Structures%20%26%20Algorithms/sort-colors) | Python |
 | [Spiral Matrix](Data%20Structures%20%26%20Algorithms/spiral-matrix) | Python |
+| [Split Array Largest Sum](Data%20Structures%20%26%20Algorithms/split-array-largest-sum) | Python |
+| [Sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx) | Python |
+| [Stone Game](Data%20Structures%20%26%20Algorithms/stone-game) | Python |
 | [Subarray Sum Equals K](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k) | Python |
 | [Three Integer Sum](Data%20Structures%20%26%20Algorithms/three-integer-sum) | Python |
 | [Two Integer Sum](Data%20Structures%20%26%20Algorithms/two-integer-sum) | Python |
